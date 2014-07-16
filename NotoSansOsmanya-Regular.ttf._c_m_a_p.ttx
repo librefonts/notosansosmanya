@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="100" language="0" nGroups="7">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+      <map code="0x10480" name="glyph00004"/><!-- OSMANYA LETTER ALEF -->
+      <map code="0x10481" name="glyph00005"/><!-- OSMANYA LETTER BA -->
+      <map code="0x10482" name="glyph00006"/><!-- OSMANYA LETTER TA -->
+      <map code="0x10483" name="glyph00007"/><!-- OSMANYA LETTER JA -->
+      <map code="0x10484" name="glyph00008"/><!-- OSMANYA LETTER XA -->
+      <map code="0x10485" name="glyph00009"/><!-- OSMANYA LETTER KHA -->
+      <map code="0x10486" name="glyph00010"/><!-- OSMANYA LETTER DEEL -->
+      <map code="0x10487" name="glyph00011"/><!-- OSMANYA LETTER RA -->
+      <map code="0x10488" name="glyph00012"/><!-- OSMANYA LETTER SA -->
+      <map code="0x10489" name="glyph00013"/><!-- OSMANYA LETTER SHIIN -->
+      <map code="0x1048a" name="glyph00014"/><!-- OSMANYA LETTER DHA -->
+      <map code="0x1048b" name="glyph00015"/><!-- OSMANYA LETTER CAYN -->
+      <map code="0x1048c" name="glyph00016"/><!-- OSMANYA LETTER GA -->
+      <map code="0x1048d" name="glyph00017"/><!-- OSMANYA LETTER FA -->
+      <map code="0x1048e" name="glyph00018"/><!-- OSMANYA LETTER QAAF -->
+      <map code="0x1048f" name="glyph00019"/><!-- OSMANYA LETTER KAAF -->
+      <map code="0x10490" name="glyph00020"/><!-- OSMANYA LETTER LAAN -->
+      <map code="0x10491" name="glyph00021"/><!-- OSMANYA LETTER MIIN -->
+      <map code="0x10492" name="glyph00022"/><!-- OSMANYA LETTER NUUN -->
+      <map code="0x10493" name="glyph00023"/><!-- OSMANYA LETTER WAW -->
+      <map code="0x10494" name="glyph00024"/><!-- OSMANYA LETTER HA -->
+      <map code="0x10495" name="glyph00025"/><!-- OSMANYA LETTER YA -->
+      <map code="0x10496" name="glyph00026"/><!-- OSMANYA LETTER A -->
+      <map code="0x10497" name="glyph00027"/><!-- OSMANYA LETTER E -->
+      <map code="0x10498" name="glyph00028"/><!-- OSMANYA LETTER I -->
+      <map code="0x10499" name="glyph00029"/><!-- OSMANYA LETTER O -->
+      <map code="0x1049a" name="glyph00030"/><!-- OSMANYA LETTER U -->
+      <map code="0x1049b" name="glyph00031"/><!-- OSMANYA LETTER AA -->
+      <map code="0x1049c" name="glyph00032"/><!-- OSMANYA LETTER EE -->
+      <map code="0x1049d" name="glyph00033"/><!-- OSMANYA LETTER OO -->
+      <map code="0x104a0" name="glyph00034"/><!-- OSMANYA DIGIT ZERO -->
+      <map code="0x104a1" name="glyph00035"/><!-- OSMANYA DIGIT ONE -->
+      <map code="0x104a2" name="glyph00036"/><!-- OSMANYA DIGIT TWO -->
+      <map code="0x104a3" name="glyph00037"/><!-- OSMANYA DIGIT THREE -->
+      <map code="0x104a4" name="glyph00038"/><!-- OSMANYA DIGIT FOUR -->
+      <map code="0x104a5" name="glyph00039"/><!-- OSMANYA DIGIT FIVE -->
+      <map code="0x104a6" name="glyph00040"/><!-- OSMANYA DIGIT SIX -->
+      <map code="0x104a7" name="glyph00041"/><!-- OSMANYA DIGIT SEVEN -->
+      <map code="0x104a8" name="glyph00042"/><!-- OSMANYA DIGIT EIGHT -->
+      <map code="0x104a9" name="glyph00043"/><!-- OSMANYA DIGIT NINE -->
+    </cmap_format_12>
+  </cmap>
+
+</ttFont>
