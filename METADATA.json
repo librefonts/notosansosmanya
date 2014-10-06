@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Osmanya",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 6755,
+  "fonts": [
+    {
+      "name": "Noto Sans Osmanya",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansOsmanya-Regular.ttf",
+      "postScriptName": "NotoSansOsmanya",
+      "fullName": "Noto Sans Osmanya",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
